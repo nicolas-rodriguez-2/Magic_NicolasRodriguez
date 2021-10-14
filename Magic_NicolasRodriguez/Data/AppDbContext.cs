@@ -13,6 +13,7 @@ namespace Magic_NicolasRodriguez.Data
         {
 
         }
+        public DbSet<Magic_NicolasRodriguez.Models.Suerte> Suerte { get; set; }
 
     }
 }
